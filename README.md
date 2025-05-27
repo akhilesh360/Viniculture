@@ -87,7 +87,6 @@ jupyter lab
 * seaborn
 * jupyterlab
 
-Refer to `requirements.txt` for version details.
 
 ## Future Work
 
