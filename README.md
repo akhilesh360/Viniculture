@@ -3,6 +3,7 @@
 A detailed exploratory data analysis and modeling initiative examining factors that influence wine quality. Leveraging the `Viniculture.ipynb` notebook, this repository analyzes physicochemical properties of red and white wines and builds predictive models to estimate quality ratings.
 
 ---
+![image](https://github.com/user-attachments/assets/2fee9ac9-dcf5-4e15-aa31-8252d794ebbb)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
